@@ -1,0 +1,17 @@
+{
+  "name": "fast-cors-anywhere",
+  "version": "1.0.0",
+  "description": "Fast npx command to run cors-anywhere",
+  "main": "index.js",
+  "scripts": {
+    "fast-cors-anywhere": "fast-cors-anywhere"
+  },
+  "bin": {
+    "fast-cors-anywhere": "index.js"
+  },
+  "author": "arthurrmp",
+  "license": "ISC",
+  "dependencies": {
+    "cors-anywhere": "^0.4.4"
+  }
+}
